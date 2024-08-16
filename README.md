@@ -17,7 +17,7 @@ This project is a solution to the QR Code Component challenge on Frontend Mentor
 
 ### Screenshot
 
-![Screenshot of the QR Code Component](./images/screenshot-qr-code-challenge.png)
+![Screenshot of the QR Code Component](.screenshot-qr-code-challenge.png)
 
 ### Links
 
