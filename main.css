@@ -3,11 +3,18 @@
   padding: 0px;
 }
 
+html {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   background-color: hsl(212, 45%, 89%);
   font-family: "Outfit";
   font-optical-sizing: auto;
-
   font-style: normal;
 }
 
@@ -18,7 +25,6 @@ body {
   height: 499px;
   border-radius: 20px;
   align-content: center;
-  margin: 95.5px auto;
   line-height: 1.2;
   border-style: hidden;
 }
