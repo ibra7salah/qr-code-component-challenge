@@ -1,0 +1,104 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit";
+  font-optical-sizing: auto;
+
+  font-style: normal;
+}
+
+.component {
+  border: 2px solid;
+  background-color: white;
+  width: 320px;
+  height: 499px;
+  border-radius: 20px;
+  align-content: center;
+  margin: 20px auto 0px;
+  line-height: 1.2;
+  border-style: hidden;
+}
+
+.content {
+  display: inline-block;
+  padding: 16px 16px 40px;
+}
+
+.text {
+  border-width: 288px;
+  height: 131px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: 1px solid;
+  border-style: hidden;
+  border-spacing: 16px;
+}
+
+.qr-code {
+  border-radius: 10px;
+  margin-bottom: 24px;
+  width: 288px;
+  height: 288px;
+}
+
+.title {
+  color: hsl(218, 44%, 22%);
+  font-size: 21px;
+  text-align: center;
+  width: 256px;
+  height: 52px;
+  margin-bottom: 16px;
+  text-wrap: balance;
+  font-weight: 700;
+}
+
+.description {
+  color: hsl(216, 15%, 48%);
+  font-size: 15px;
+  text-align: center;
+  font-weight: 400;
+  width: 256px;
+  height: 63px;
+  line-height: 140%;
+  letter-spacing: 0.2px;
+}
+
+/* .attribution {
+  color: rgb(17, 16, 16); 
+  text-align: center; 
+  text-wrap: balance;
+}  */
+.footer {
+  margin: 20px auto 0px;
+  width: 320px;
+  background-color: hsl(212, 45%, 89%); /* Light blue background color */
+  color: #1b1919; /* White text color */
+  padding: 20px 0; /* Space above and below the footer */
+  text-align: center; /* Center text */
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px; /* Space between the lines of text */
+}
+
+.footer a {
+  color: #1652a1; /* Bright yellow link color */
+  text-decoration: none; /* Remove underline */
+  font-weight: 700; /* Bold text */
+}
+
+.footer a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+.footer p {
+  margin: 0; /* Remove default margin */
+  font-size: 14px; /* Slightly smaller font */
+}
