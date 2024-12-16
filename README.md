@@ -21,8 +21,8 @@ This project is a solution to the QR Code Component challenge on Frontend Mentor
 
 ### Links
 
-- Live Site URL:(https://ibra7salah.github.io/qr-code-component-challenge/)
-- Frontend Mentor Solution:(https://www.frontendmentor.io/solutions/qr-code-component-challenge-public-DlULqXFKAc)
+- Live Site URL: (https://ibra7salah.github.io/qr-code-component-challenge/)
+- Frontend Mentor Solution: (https://www.frontendmentor.io/solutions/qr-code-component-challenge-public-DlULqXFKAc)
 
 ## Built With
 
